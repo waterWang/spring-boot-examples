@@ -62,9 +62,9 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 
 **示例代码**
 
-- [spring-boot-helloWorld](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-helloWorld)：Spring Boot 的 hello World 版本
+- [spring-boot-kafka](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-kafka)：Spring Boot 的 kafka 版本
 - [spring-boot-web](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web)：Spring Boot Web 开发综合示例
-- [spring-boot-redis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-redis)：Spring Boot 集成 Redis 示例
+- [spring-boot-redis](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-redis)：Spring Boot 集成 Redis（分布式Session） 示例
 - [spring-boot-jpa](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-jpa)：Spring Boot 使用 Jpa 各种示例
 - [spring-boot-mybaits-annotation](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis/spring-boot-mybatis-annotation)：注解版本
 - [spring-boot-mybaits-xml](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis/spring-boot-mybatis-xml)：Xml 配置版本

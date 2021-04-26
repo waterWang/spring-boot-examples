@@ -12,6 +12,11 @@ import java.util.UUID;
 @RestController
 public class UserController {
 
+    /**
+     * redis中key = get user-key::com.neo.web.UserControllergetUser
+     * @Cacheable 可以自动缓存
+     * @return
+     */
     @RequestMapping("/getUser")
     @Cacheable(value="user-key")
     public User getUser() {
